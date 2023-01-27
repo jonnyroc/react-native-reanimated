@@ -326,6 +326,7 @@ export const styles = StyleSheet.create({
   },
   buttonText: {
     backgroundColor: 'transparent',
+    color: 'black'
   },
   button: {
     flex: 1,

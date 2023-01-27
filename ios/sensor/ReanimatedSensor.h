@@ -21,5 +21,6 @@
 - (bool)initializeMagnetometer;
 - (bool)initializeOrientation;
 - (void)cancel;
+- (void)remap:(CMAttitude*)attitude outData:(double [7])data;
 
 @end
